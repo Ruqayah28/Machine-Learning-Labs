@@ -1,0 +1,3 @@
+This is lab 2 of machine learning course, where I choose a dataset that represent human-written and ai-generated texts,
+they are a multilanguages texts but I filterd them and choose only english texts. The model aims to predict and classifiy
+whether the text is a human-written or ai-generated text by training it on the labeled data.
